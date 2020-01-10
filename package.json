@@ -1,0 +1,23 @@
+{
+  "name": "js-functional-programming",
+  "version": "1.0.0",
+  "description": "Functional Programming Exercises in JavaScript",
+  "main": "currying.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agzertuche/js-functional-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agzertuche/js-functional-programming/issues"
+  },
+  "homepage": "https://github.com/agzertuche/js-functional-programming#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
